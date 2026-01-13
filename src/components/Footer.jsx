@@ -184,7 +184,7 @@ export function Footer() {
             <span>using React, Tailwind CSS & Framer Motion</span>
           </p>
           <p className="text-slate-600 text-xs mt-2">
-            Designed & Developed by Mohammad Shoaib Khan
+            Designed & Developed by Jamal Ahmad Ansari
           </p>
         </motion.div>
 
